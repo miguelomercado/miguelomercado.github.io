@@ -6,7 +6,7 @@ categories: jekyll update
 comments: true
 ---
 
-Entanglement and Quantunm Matter
+Entanglement and Quantum Matter
 Quantum Mechanics/QFT
 
 <!--more-->
