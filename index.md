@@ -8,11 +8,6 @@ title:
 
 Undergraduate at USC interested in theoretical condensed matter physics.
 
-hr {
-        width: 70%;
-        margin-left: auto;
-        margin-right: auto;
-      }
 
 
 
