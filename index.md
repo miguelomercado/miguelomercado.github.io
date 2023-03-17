@@ -6,6 +6,8 @@ layout: default
 title: 
 ---
 
+Undergraduate at USC interested in theoretical condensed matter physics.
+
 {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
