@@ -6,9 +6,6 @@ layout: default
 title: 
 ---
 
-______________________________________________________________________________
-Undergraduate at USC interested in theoretical condensed matter physics.
-______________________________________________________________________________
 
 
 
