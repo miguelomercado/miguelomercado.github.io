@@ -5,6 +5,7 @@
 layout: default
 title: 
 ---
+
 {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
