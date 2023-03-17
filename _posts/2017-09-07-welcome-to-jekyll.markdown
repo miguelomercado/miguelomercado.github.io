@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journals:"
+title:  "Journals"
 date:   2017-09-07 01:03:29 +0200
 categories: update
 comments: false
