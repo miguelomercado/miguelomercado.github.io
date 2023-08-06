@@ -1,7 +1,7 @@
 body	{
 	margin-top: 10px;
 	padding:0;
-	font-family: 'Courier', monospace;
+	font-family: 'Cutive Mono', serif;
 	font-size:100%;
 	line-height:150%;
 }
@@ -60,7 +60,6 @@ a:hover	{
 #logo	{
 	text-align:center;
 	margin: 20px auto 20px auto;
-	font-family: 'Courier', monospace;
 }
 
 #logo img {
