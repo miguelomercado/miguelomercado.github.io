@@ -60,6 +60,7 @@ a:hover	{
 #logo	{
 	text-align:center;
 	margin: 20px auto 20px auto;
+	font-family: 'Courier', monospace;
 }
 
 #logo img {
